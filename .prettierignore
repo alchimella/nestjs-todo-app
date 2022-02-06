@@ -1,0 +1,9 @@
+# Add files here to ignore them from prettier formatting
+
+/dist
+/coverage
+/task-definition-template.json
+/libs/pass-scheduler-domain/migrations/**/*.ts
+/libs/pass-scheduler-api-client/src/lib/generated/**/*
+/libs/pass-finance-domain/migrations/**/*.ts
+/libs/pass-finance-api-client/src/lib/generated/**/*
